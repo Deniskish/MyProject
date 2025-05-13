@@ -1,0 +1,10 @@
+release/clipper.engine.o
+release/clipper.offset.o
+release/clipper.rectclip.o
+release/clipper.engine.o
+release/clipper.offset.o
+release/clipper.rectclip.o
+release/main.o
+release/mainwindow.o
+release/openglwidget.o
+release/moc_mainwindow.o

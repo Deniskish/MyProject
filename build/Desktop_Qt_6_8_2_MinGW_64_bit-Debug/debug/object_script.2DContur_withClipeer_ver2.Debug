@@ -1,0 +1,10 @@
+debug/clipper.engine.o
+debug/clipper.offset.o
+debug/clipper.rectclip.o
+debug/clipper.engine.o
+debug/clipper.offset.o
+debug/clipper.rectclip.o
+debug/main.o
+debug/mainwindow.o
+debug/openglwidget.o
+debug/moc_mainwindow.o
